@@ -1,0 +1,5 @@
+@startuml
+"example-package" --> "dep1"
+"example-package" --> "dep2"
+"dep1" --> "subdep1"
+@enduml
